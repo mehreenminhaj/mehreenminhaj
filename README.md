@@ -1,6 +1,5 @@
 # Hi, I'm Mehreen Fatima
 
-<img src="https://raw.githubusercontent.com/mehreenminhaj/mehreenminhaj/master/Mehreen Fatima.png" alt="banner that says Mehreen Minhaj - data science enthusiast, computer science student at FAST NUCES alongside a cartoon illustration of Mehreen" width="800" height="267">
 
 <img src="https://raw.githubusercontent.com/mehreenminhaj/mehreenminhaj/master/headerwhite.png" width="800" height="267">
 
