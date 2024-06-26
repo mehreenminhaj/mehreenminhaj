@@ -1,6 +1,9 @@
 # Hi, I'm Mehreen Fatima
 
 <img src="https://raw.githubusercontent.com/mehreenminhaj/mehreenminhaj/master/Mehreen Fatima.png" alt="banner that says Mehreen Minhaj - data science enthusiast, computer science student at FAST NUCES alongside a cartoon illustration of Mehreen" width="800" height="267">
+
+<img src="https://raw.githubusercontent.com/mehreenminhaj/mehreenminhaj/master/headerwhite.png" alt="banner that says Mehreen Minhaj - data science enthusiast, computer science student at FAST NUCES alongside a cartoon illustration of Mehreen" width="800" height="267">
+
 I'm a final-year Bachelor of Computer Science student at FAST NUCES, passionate about data science and its potential to transform various industries. I enjoy working with technologies like Python, R, and SQL, and I'm particularly interested in machine learning, data analysis, and data visualization. My involvement in the data science community has driven me to participate in various projects and hackathons, where I collaborate with peers to solve real-world problems using data-driven approaches.
 
 <br> I’m passionate about data science and its transformative potential in various industries.
