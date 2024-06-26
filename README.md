@@ -7,7 +7,7 @@
 <br>⚡ Fun fact: I enjoy diving into complex data sets and extracting meaningful insights that drive decision-making.
 # Hi, I'm Mehreen Minhaj
 
-<img src="https://raw.githubusercontent.com/yourusername/yourrepository/master/your-banner-image.png" alt="banner that says Mehreen Minhaj - data science enthusiast, computer science student at FAST NUCES alongside a cartoon illustration of Mehreen">
+<img src="https://raw.githubusercontent.com/mehreenminhaj/mehreenminhaj/master/Mehreen Fatima.png" alt="banner that says Mehreen Minhaj - data science enthusiast, computer science student at FAST NUCES alongside a cartoon illustration of Mehreen">
 I'm a final-year Bachelor of Computer Science student at FAST NUCES, passionate about data science and its potential to transform various industries. I enjoy working with technologies like Python, R, and SQL, and I'm particularly interested in machine learning, data analysis, and data visualization. My involvement in the data science community has driven me to participate in various projects and hackathons, where I collaborate with peers to solve real-world problems using data-driven approaches.
 
 ## Find me around the web @:
